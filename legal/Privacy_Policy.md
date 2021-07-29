@@ -2,7 +2,7 @@
 
 Mahak Aggarwal ("MMagg", "I", “me”, “our”) built the Guide and Checklist - The Witcher 3 application as an advertisement supported mobile application. This service is provided by me at no cost and is intended for use as is. This privacy policy contains information on collection, use, and disclosure of personal information if the service (“app”, “application”) is used.  
 If you choose to agree to this policy in the application, then you agree to the collection and use of information in relation to this privacy policy. The personal information collected is used for providing and improving the service. Your information will not be shared with anyone except as described in this privacy policy.  
-The terms used in this privacy policy have the same meanings as in the [Terms of Use]() unless otherwise defined in this privacy policy. The Terms of Use are accessible through the application and through this [link]().
+The terms used in this privacy policy have the same meanings as in the [Terms of Use](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Terms_of_Use.md) unless otherwise defined in this privacy policy. The Terms of Use are accessible through the application and through this [link](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Terms_of_Use.md).
 This policy is effective as of version 1.0.0 and above of the application.
 
 
