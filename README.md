@@ -36,7 +36,13 @@ An unofficial guide, checklist, and progress tracker for The Witcher 3 game. Exp
 
 
 ### Screenshots
-Coming soon
+![Dashboard](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/1_light_dashboard.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Events](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/2_light_event_list.png)
+
+![Main Quests](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/3_light_main_quest_info.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Side Quests](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/4_light_side_quest.png)
+
+![Gwent](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/5_dark_gwent_main.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Achievements](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/6_dark_achievement_list.png)
+
+![Hearts of Stone DLC](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/7_dark_hearts_quests.png)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Blood and Wine DLC](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/Screenshots/8_dark_blood_wine_quests.png)
 
 
 ### Notes
