@@ -1,4 +1,4 @@
-# Guide and Checklist - The Witcher 3 (Early Access)
+# Guide and Checklist - The Witcher 3
 
 An unofficial guide, checklist, and progress tracker for The Witcher 3 game. Explore White Orchard, Velen, Novigrad, Skellige, and Kaer Morhen and make sure that you don't miss out on any quest, Gwent card, contract, treasure hunt, or achievement in the game.
 
@@ -51,7 +51,7 @@ Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik
 
 
 ### Legal
-View the [Privacy Policy]() and [Terms of Use]d) for the app [here]().
+View the [Privacy Policy](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/tree/main/legal).
 
 
 ### Features coming soon
