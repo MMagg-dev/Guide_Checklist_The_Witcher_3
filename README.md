@@ -27,6 +27,7 @@ An unofficial guide, checklist, and progress tracker for The Witcher 3 game. Exp
 
 
 ### App Features
+* Search across all lists
 * Light and dark themes
 * Track your progress
 * Option to include/exclude DLCs in total progress
@@ -54,11 +55,7 @@ Part of launcher icon made by [Freepik](https://www.flaticon.com/authors/freepik
 View the [Privacy Policy](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Privacy_Policy.md) and [Terms of Use](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/blob/main/legal/Terms_of_Use.md) for the app [here](https://github.com/MMagg-dev/Guide_Checklist_The_Witcher_3/tree/main/legal).
 
 
-### Features coming soon (December 2021 update)
-* Images of gwent cards
-* Search feature
-* Backup and restore functionality
+### Features coming soon
 * Choices and consequences guides for quests and side quests
-* Notes on contracts, treasure hunts, etc.
 * New Netflix content when more information is available
-* Less frequent full screen ads
+* Translations in German and Portuguese
