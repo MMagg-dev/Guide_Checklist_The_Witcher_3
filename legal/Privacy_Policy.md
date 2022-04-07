@@ -16,6 +16,12 @@ The application uses third party services that may collect information used to i
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
 * [MoPub](https://www.mopub.com/en/legal/privacy)
 
+The following third-party service provider has been removed and therefore will not collect any information or identification in versions 1.3.1 and above of the application - 
+* [MoPub](https://www.mopub.com/en/legal/privacy)
+
+The following third party service provider may collect information and identify you in versions 1.3.1 and above of the application -
+* [AppLovin](https://www.applovin.com/privacy/)
+
 
 ### Log Data
 Whenever the application is used, in case of an error, the app collects data and information (through third party service providers) called log data on your device. The log data may include information such as your device’s Internet Protocol (“IP”) address, device name, operating system version, application configuration when using the service, time and data of your use of the service, and other statistics.
@@ -46,3 +52,6 @@ I may update the privacy policy from time to time. Thus, you are advised to revi
 
 ### Contact Me
 If you have any questions or suggestions about this privacy policy, do not hesitate to contact me at [mahakagg30@gmail.com](mailto:mahakagg30@gmail.com).
+
+### Change Logs
+* 7th April, 2022 - updated for information collection and third party usage by AppLovin. In addition, MoPub has been removed as a third party which can collect information.
