@@ -14,7 +14,6 @@ The application uses third party services that may collect information used to i
 * [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 * [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
 * [Facebook](https://www.facebook.com/about/privacy/update/printable)
-* [MoPub](https://www.mopub.com/en/legal/privacy)
 
 The following third-party service provider has been removed and therefore will not collect any information or identification in versions 1.3.1 and above of the application - 
 * [MoPub](https://www.mopub.com/en/legal/privacy)
