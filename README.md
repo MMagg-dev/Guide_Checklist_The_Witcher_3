@@ -56,6 +56,4 @@ View the [Privacy Policy](https://github.com/MMagg-dev/Guide_Checklist_The_Witch
 
 
 ### Features coming soon
-* Choices and consequences guides for quests and side quests
 * New Netflix content when more information is available
-* Translations in German and Portuguese
