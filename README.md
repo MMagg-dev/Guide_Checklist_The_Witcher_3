@@ -34,6 +34,7 @@ An unofficial guide, checklist, and progress tracker for The Witcher 3 game. Exp
 * Option to move checked items to the bottom of lists
 * Option to hide/show secret achievements
 * Option to check off and reset lists
+* Option to sort all side quests (including DLC side quests) in the best story order
 
 
 ### Screenshots
