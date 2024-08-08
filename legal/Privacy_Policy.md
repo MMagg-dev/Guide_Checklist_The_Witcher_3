@@ -38,6 +38,7 @@ I may employ third-party companies and individuals for the following reasons:
 *	To provide service on our behalf
 *	To perform application-related services, or
 *	To assist in analyzing how this service is used
+
 These third parties have access to your personal information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose. 
 
 ### Security
