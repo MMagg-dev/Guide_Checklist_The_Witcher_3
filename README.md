@@ -2,6 +2,7 @@
 
 An unofficial guide, checklist, and progress tracker for The Witcher 3 game. Explore White Orchard, Velen, Novigrad, Skellige, and Kaer Morhen and make sure that you don't miss out on any quest, Gwent card, contract, treasure hunt, or achievement in the game.
 
+** This app is not available on any app store.**
 
 # DLCs
 * Hearts of Stone
